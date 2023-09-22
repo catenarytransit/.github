@@ -8,7 +8,7 @@ Catenary Maps's supporting foundation is Catenary Transit Initative, Inc (a regi
 
 - Kyler Chin<sup>1</sup> (he/him) - Founder, Director, Boardmember, Systems Programmer, Algorithms, Frontend, Design
 - Josh Wong<sup>2 3</sup> (he/him) - Sysadmin, Systems Programmer, Algorithms
-- Kin Tsang (he/him) <sup>3</sup> - Systems Architecture, Boardmember, Algorithms
+- Kin Tsang (he/him) - Systems Architecture, Boardmember, Algorithms
 - Andrew Shen (he/him) <sup>1</sup> - Frontend/Flutter, Boardmember
 - Samuel Sharp (he/him) <sup>4</sup> - Frontend/Flutter, Design, UX/UI
 
