@@ -20,11 +20,11 @@ Catenary Maps's supporting foundation is Catenary Transit Initative, Inc (a regi
 Join us on Discord! https://discord.gg/6BjnxthQ
 
 ## Guide to repositories
-Svelte Frontend: [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend)
-Rust Backend for routing algorithms and data processing and ingest: [catenary-backend](https://github.com/CatenaryMaps/catenary-backend)
-Rust Cache Server for GTFS-rt caching: [kactus-gtfs-rt](https://github.com/CatenaryMaps/kactus-gtfs-rt)
-Flutter Cross-platform Frontend (literally progress at snails pace) [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)
-ZotGTFS, Making GTFS-rt and static data from Transloc [zotgtfs](https://github.com/CatenaryMaps/zotgtfs)
+- Svelte Frontend: [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend)
+- Rust Backend for routing algorithms and data processing and ingest: [catenary-backend](https://github.com/CatenaryMaps/catenary-backend)
+- Rust Cache Server for GTFS-rt: [kactus-gtfs-rt](https://github.com/CatenaryMaps/kactus-gtfs-rt)
+- Flutter Cross-platform Frontend (literally progress at snails pace) [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)
+- ZotGTFS, Making GTFS-rt and static data from Transloc [zotgtfs](https://github.com/CatenaryMaps/zotgtfs)
 
 Notes: https://github.com/CatenaryMaps/cantenarymaps
 
