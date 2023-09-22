@@ -1,5 +1,9 @@
 # Catenary Maps
 
+Catenary Maps is an open-source, no-ads, no-paywall public transport map software. We're a team of students, computer scientists, and transit enthusists. We are providing transit riders with quality-of-life information by innovating and designing routing, ETA, and other algorithms, curating and displaying high quality realtime data.
+
+Catenary Maps's supporting foundation is Catenary Transit Initative, Inc (a registered nonprofit public benefit corporation of California.
+
 ## Current Maintainers
 
 - Kyler Chin<sup>1</sup> (he/him) - Founder, Director, Boardmember, Systems Programmer, Algorithms, Frontend, Design
@@ -14,3 +18,6 @@
 4. San Diego High School
 
 Join us on Discord! https://discord.gg/6BjnxthQ
+
+## Lore
+
