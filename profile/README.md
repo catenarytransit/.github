@@ -11,7 +11,7 @@ Catenary Maps's supporting foundation is Catenary Transit Initative, Inc (a regi
 - Kin Tsang (he/him) - Systems Architecture, Boardmember, Algorithms
 - Andrew Shen (he/him) <sup>1</sup> - Frontend/Flutter, Boardmember
 - Samuel Sharp (he/him) <sup>4</sup> - Frontend/Flutter, Design, UX/UI
-- Andrew Bustos (he/him) <sup5</sup> - Frontend/Flutter, User Design
+- Andrew Bustos (he/him) <sup>5</sup> - Frontend/Flutter, User Design
 
 1. University of California, Irvine
 2. Santa Monica College
