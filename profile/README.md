@@ -41,7 +41,7 @@ Also we try to use Rust as much as possible.
 
 ## Lore
 
-In 2023 June, Kyler began writing software to cache GTFS realtime data. https://github.com/CatenaryMaps/kactus-gtfs-rt. After several weeks. he then started to work on a Svelte realtime map demo. He began to share his work in several Discord servers around computer science at UC Irvine and LA Metro enthusiast Discord servers. The temporary name, "Kyler's Transit Map" held until 2023 Sep 22, while "Catenary" was the project codename. Several people began contributing code and server resources, and the codebase, community, and computer infrastructure began to grow.  
+In 2023 June, Kyler began writing software to cache GTFS realtime data. https://github.com/CatenaryMaps/kactus-gtfs-rt. After several weeks, he then started to work on a Svelte realtime map demo. Simultaniously, Kyler participated in University research related to routing and graph algorithms. He began to share his work in several Discord servers around computer science at UC Irvine and LA Metro enthusiast Discord servers. The temporary name, "Kyler's Transit Map" held until 2023 Sep 22, while "Catenary" was the project codename. Several people began contributing code and server resources, and the codebase, community, and computer infrastructure began to grow.  
 
 On 2023-09-22, several maintainers decided to formally rename it "Catenary Maps", and create a supporting foundation.
 
