@@ -4,7 +4,7 @@ Catenary Maps is an open-source, no-ads, no-paywall public transport map softwar
 
 Catenary Maps's supporting foundation is Catenary Transit Initative, Inc (a registered nonprofit public benefit corporation of California.)
 
-Join our Discord!! https://discord.gg/BGS4FNgBfp
+Join our Discord!! [https://discord.gg/BGS4FNgBfp](https://discord.gg/WHqTZPdfy5)
 
 ## Current Maintainers
 
