@@ -1,52 +1,48 @@
-# Catenary Maps
+<div align="center">
 
-Catenary Maps is an open-source, no-ads, no-paywall public transport map software. We're a team of students, computer scientists, and transit enthusists. We are providing transit riders with quality-of-life information by innovating and designing routing, ETA, and other algorithms, curating and displaying high quality realtime data.
+![Banner](https://files.catbox.moe/ta0y7z.png)
 
-Catenary Maps's supporting foundation is Catenary Transit Initative, Inc (a registered nonprofit public benefit corporation of California.)
+[![Discord]](https://discord.gg/WHqTZPdfy5) [![License]](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
 
-Join our Discord!! [https://discord.gg/BGS4FNgBfp](https://discord.gg/WHqTZPdfy5)
+Catenary Maps is an **ad-free**, **open-source tool** for seamless public transport navigation. Using real-time data and innovative algorithms, we streamline your transit experience. Navigate public transport smarter and smoother with us!
 
-## Current Maintainers
+</div>
 
-- Kyler Chin<sup>1</sup> (he/him) - Founder, President, Boardmember, Systems Programmer, Algorithms, Frontend, Design
-- Josh Wong<sup>2 3</sup> (he/him) - Director of Data Centre Operations, Sysadmin, Systems Programmer, Algorithms
-- Kin Tsang (he/him) - Director of Systems Architecture, Boardmember, Algorithms
-- Andrew Shen (he/him) <sup>1</sup> - Director of Machine Learning, Frontend/Flutter, Boardmember
-- Samuel Sharp (he/him) <sup>4</sup> - Frontend/Flutter, Design, UX/UI
-- Andrew Bustos (he/him) <sup>5</sup> - Frontend/Flutter, User Design
+## About
 
-1. University of California, Irvine
-2. Santa Monica College
-3. Don Bosco Technical Institute, Rosemead
-4. San Diego High School
-5. California State University, East Bay
+We're a fully student team focused on creating advanced routing, estimated time of arrival (ETA), and data processing algorithms. Our goal is to provide accurate real-time data in a user-friendly, accessible format.
 
-Join us on Discord! https://discord.gg/6BjnxthQ
+The supporting foundation of Catenary Maps is Catenary Transit Initiatives, Inc., a registered nonprofit public benefit corporation in California.
 
-## Guide to repositories
-- Svelte Frontend: [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend)
-- Rust Backend for routing algorithms and data processing and ingest: [catenary-backend](https://github.com/CatenaryMaps/catenary-backend)
-- Rust Cache Server for GTFS-rt: [kactus-gtfs-rt](https://github.com/CatenaryMaps/kactus-gtfs-rt)
-- Flutter Cross-platform Frontend (literally progress at snails pace) [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)
-- ZotGTFS, Making GTFS-rt and static data from Transloc [zotgtfs](https://github.com/CatenaryMaps/zotgtfs)
+## Repositories
 
-Notes: https://github.com/CatenaryMaps/cantenarymaps
+| Name                                                                   | Description                                                    | Technologies |
+|------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
+| [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend) | Frontend for the main map                                      | WIP          |
+| [catenary-backend](https://github.com/CatenaryMaps/catenary-backend)   | Backend for routing algorithms and data processing and ingest  | WIP          |
+| [catenary-landing](https://github.com/CatenaryMaps/catenary-landing)   | Main landing page                                              | Next.js, Tailwind, TypeScript |
+| [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)   | Cross-platform frontend                                        | WIP          |
+| [kactus-gtfs-rt](https://github.com/CatenaryMaps/kactus-gtfs-rt)       | Cache server for GTFS-rt                                       | WIP          |
+| [zotgtfs](https://github.com/CatenaryMaps/zotgtfs)                     | ZotGTFS, making GTFS-rt and static data from Transloc          | WIP          |
 
 ## Developer Guide / Getting Started
 
-Join the discord. Also, all the notes are here https://github.com/CatenaryMaps/cantenarymaps and here 
+Join our Discord! A notes are available [here](https://github.com/CatenaryMaps/cantenarymaps) and in our [roadmap](https://github.com/orgs/CatenaryMaps/projects/1/).
 
-Roadmap:
-https://github.com/orgs/CatenaryMaps/projects/1/
+## Maintainers
 
-Also we try to use Rust as much as possible. 
-
-## Lore
-
-In 2023 June, Kyler began writing software to cache GTFS realtime data. https://github.com/CatenaryMaps/kactus-gtfs-rt. After several weeks, he then started to work on a Svelte realtime map demo. Simultaniously, Kyler participated in University research related to routing and graph algorithms. He began to share his work in several Discord servers around computer science at UC Irvine and LA Metro enthusiast Discord servers. The temporary name, "Kyler's Transit Map" held until 2023 Sep 22, while "Catenary" was the project codename. Several people began contributing code and server resources, and the codebase, community, and computer infrastructure began to grow.  
-
-On 2023-09-22, several maintainers decided to formally rename it "Catenary Maps", and create a supporting foundation.
+| Name           | Pronouns | Title                                                   | Roles                                             | Education                                  |
+|----------------|----------|----------------------------------------------------------|---------------------------------------------------|--------------------------------------------|
+| Kyler Chin     | he/him   | Founder, President, Boardmember                          | Systems Programmer, Algorithms, Frontend, Design | University of California, Irvine           |
+| Josh Wong      | he/him   | Director of Data Centre Operations                       | Sysadmin, Systems Programmer, Algorithms         | Santa Monica College, Don Bosco Technical Institute, Rosemead |
+| Kin Tsang      | he/him   | Director of Systems Architecture, Boardmember           | Algorithms                                        |                                            |
+| Andrew Shen    | he/him   | Director of Machine Learning, Boardmember                | Frontend/Flutter                                  | University of California, Irvine           |
+| Samuel Sharp   | he/him   |                                                          | Frontend/Flutter, Design, UX/UI                   | San Diego High School                      |
+| Andrew Bustos  | he/him   |                                                          | Frontend/Flutter, User Design                     | California State University, East Bay      |
 
 ## What's next for us?
 
-We want to create a deliverable product over the next several weeks. We want to add Geocoding, Departure and Arrival Algorithms and info, Transfer and Route information, Routing algorithms for Bike, Pedestrian, and wheelchairs, etc. We want to also launch a mobile app using Flutter.
+We aim to develop a deliverable product over the upcoming weeks, incorporating features such as geocoding, departure and arrival algorithms, transfer and route information, along with routing algorithms tailored for bicycles, pedestrians, and wheelchair users. Additionally, we plan to launch a mobile application utilizing Flutter.
+
+[Discord]: https://img.shields.io/badge/join%20our%20discord!-088EAF?style=for-the-badge&logo=discord&labelColor=%23555555&logoColor=%23ffffff
+[License]: https://img.shields.io/static/v1?label=License&message=GPL-3&color=088EAF&style=for-the-badge
