@@ -2,7 +2,9 @@
 
 Catenary Maps is an open-source, no-ads, no-paywall public transport map software. We're a team of students, computer scientists, and transit enthusists. We are providing transit riders with quality-of-life information by innovating and designing routing, ETA, and other algorithms, curating and displaying high quality realtime data.
 
-Catenary Maps's supporting foundation is Catenary Transit Initative, Inc (a registered nonprofit public benefit corporation of California.
+Catenary Maps's supporting foundation is Catenary Transit Initative, Inc (a registered nonprofit public benefit corporation of California.)
+
+Join our Discord!! https://discord.gg/BGS4FNgBfp
 
 ## Current Maintainers
 
