@@ -2,7 +2,7 @@
 
 ![Banner](https://files.catbox.moe/ta0y7z.png)
 
-[![Discord]](https://discord.gg/WHqTZPdfy5) [![License]](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
+[![Discord]](https://discord.gg/WHqTZPdfy5) [![License]](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text)
 
 Catenary Maps is an **ad-free**, **open-source tool** for seamless public transport navigation. Using real-time data and innovative algorithms, we streamline your transit experience. Navigate public transport smarter and smoother with us!
 
@@ -47,4 +47,4 @@ Join our Discord! A notes are available [here](https://github.com/CatenaryMaps/c
 We aim to develop a deliverable product over the upcoming weeks, incorporating features such as geocoding, departure and arrival algorithms, transfer and route information, along with routing algorithms tailored for bicycles, pedestrians, and wheelchair users. Additionally, we plan to launch a mobile application utilizing Flutter.
 
 [Discord]: https://img.shields.io/badge/join%20our%20discord!-088EAF?style=for-the-badge&logo=discord&labelColor=%23555555&logoColor=%23ffffff
-[License]: https://img.shields.io/static/v1?label=License&message=GPL-3&color=088EAF&style=for-the-badge
+[License]: https://img.shields.io/static/v1?label=License&message=AGPL-3&color=088EAF&style=for-the-badge
