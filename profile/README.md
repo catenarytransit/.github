@@ -18,7 +18,7 @@ The supporting foundation of Catenary Maps is Catenary Transit Initiatives, Inc.
 
 | Name                                                                   | Description                                                                                                              | Technologies                  |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend) | Default, original frontend for Catenary with realtime vehicle locations, labelled routes and stops.                      | Sevlte, Tailwind              |
+| [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend) | Default, original frontend for Catenary with realtime vehicle locations, labelled routes and stops.                      | Svelte, Tailwind              |
 | [catenary-backend](https://github.com/CatenaryMaps/catenary-backend)   | Rust backend that powers Catenary with import, APIs for trip calculations, and routing algorithms.                       | Rust                          |
 | [catenary-landing](https://github.com/CatenaryMaps/catenary-landing)   | Landing page for Catenary, providing a concise overview of the project in a concise, responsive format.                  | Next.js, Tailwind, TypeScript |
 | [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)   | Experimental rewrite of Catenary's frontend in Flutter, with support for native mobile and Web platforms.                | Rust, Flutter                 |
