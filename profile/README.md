@@ -16,14 +16,16 @@ The supporting foundation of Catenary Maps is Catenary Transit Initiatives, Inc.
 
 ## Repositories
 
-| Name                                                                   | Description                                                    | Technologies |
-|------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
-| [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend) | Frontend for the main map                                      | WIP          |
-| [catenary-backend](https://github.com/CatenaryMaps/catenary-backend)   | Backend for routing algorithms and data processing and ingest  | WIP          |
-| [catenary-landing](https://github.com/CatenaryMaps/catenary-landing)   | Main landing page                                              | Next.js, Tailwind, TypeScript |
-| [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)   | Cross-platform frontend                                        | WIP          |
-| [kactus-gtfs-rt](https://github.com/CatenaryMaps/kactus-gtfs-rt)       | Cache server for GTFS-rt                                       | WIP          |
-| [zotgtfs](https://github.com/CatenaryMaps/zotgtfs)                     | ZotGTFS, making GTFS-rt and static data from Transloc          | WIP          |
+| Name                                                                   | Description                                                                                                              | Technologies                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend) | Default, original frontend for Catenary with realtime vehicle locations, labelled routes and stops.                      | WIP                           |
+| [catenary-backend](https://github.com/CatenaryMaps/catenary-backend)   | Rust backend that powers Catenary with import, APIs for trip calculations, and routing algorithms.                       | WIP                           |
+| [catenary-landing](https://github.com/CatenaryMaps/catenary-landing)   | Landing page for Catenary, providing a concise overview of the project in a concise, responsive format.                  | Next.js, Tailwind, TypeScript |
+| [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)   | Experimental rewrite of Catenary's frontend in Flutter, with support for native mobile and Web platforms.                | WIP                           |
+| [kactus-gtfs-rt](https://github.com/CatenaryMaps/kactus-gtfs-rt)       | Redis-based cache microservice fetching GTFS-rt from thousands of agencies every second and syncing with our algorithms. | WIP                           |
+| [zotgtfs](https://github.com/CatenaryMaps/zotgtfs)                     | ZotGTFS, making GTFS-rt and static data from Transloc                                                                    | WIP                           |
+| [skokieswift](https://github.com/CatenaryMaps/skokieswift)             | Experimental reverse engineering of the CTA Train Tracker API, adapting it to GTFS-rt for use in Catenary.               | WIP                           |
+| [announcements](https://github.com/CatenaryMaps/announcements)         | Publishing automated announcements for the world's transit systems.                                                      | WIP                           |
 
 ## Developer Guide / Getting Started
 
