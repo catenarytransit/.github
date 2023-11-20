@@ -24,6 +24,7 @@ The supporting foundation of Catenary Maps is Catenary Transit Initiatives, Inc.
 | [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)   | Experimental rewrite of Catenary's frontend in Flutter, with support for native mobile and Web platforms.                | Rust, Flutter                 |
 | [kactus-gtfs-rt](https://github.com/CatenaryMaps/kactus-gtfs-rt)       | Redis-based cache microservice fetching GTFS-rt from thousands of agencies every second and syncing with our algorithms. | Rust                          |
 | [zotgtfs](https://github.com/CatenaryMaps/zotgtfs)                     | ZotGTFS, making GTFS-rt and static data from Transloc                                                                    | Rust                          |
+| [amtrak-gtfs-rt](https://github.com/catenarymaps/amtrak-gtfs-rt)       | Amtrak Track-a-train to GTFS-rt conversion                                                                               | Rust                          |
 | [skokieswift](https://github.com/CatenaryMaps/skokieswift)             | Experimental reverse engineering of the CTA Train Tracker API, adapting it to GTFS-rt for use in Catenary.               | WIP                           |
 | [announcements](https://github.com/CatenaryMaps/announcements)         | Publishing automated announcements for the world's transit systems.                                                      | N/A                           |
 
