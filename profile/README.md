@@ -39,8 +39,10 @@ Join our Discord! A notes are available [here](https://github.com/CatenaryMaps/c
 | Josh Wong      | he/him   | Director of Data Centre Operations                       | Sysadmin, Systems Programmer, Algorithms         | Santa Monica College, Don Bosco Technical Institute, Rosemead |
 | Kin Tsang      | he/him   | Director of Systems Architecture, Boardmember           | Algorithms                                        |                                            |
 | Andrew Shen    | he/him   | Director of Machine Learning, Boardmember                | Frontend/Flutter                                  | University of California, Irvine           |
-| Samuel Sharp   | he/him   |                                                          | Frontend/Flutter, Design, UX/UI                   | San Diego High School                      |
+| Samuel Sharp   | he/him   | Frontend and Native Lead                      | Frontend/Flutter, Design, UX/UI                   | San Diego High School                      |
 | Andrew Bustos  | he/him   |                                                          | Frontend/Flutter, User Design                     | California State University, East Bay      |
+| Jason T. | he/him | Frontend Web Lead | Frontend/Web, UX/UI, Accessibility Design | University of California, San Diego |
+| Brandon Z. | he/they | User Interface & Experience Design Lead | Frontend/Web, UX/UI, Design | University of Southern California |
 
 ## What's next for us?
 
