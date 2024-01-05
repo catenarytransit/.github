@@ -37,7 +37,6 @@ Join our Discord! A notes are available [here](https://github.com/CatenaryMaps/c
 | Name           | Pronouns | Title                                                   | Roles                                             | Education                                  |
 |----------------|----------|----------------------------------------------------------|---------------------------------------------------|--------------------------------------------|
 | Kyler Chin     | he/him   | Founder, Executive Director, Boardmember                          | Systems Programmer, Algorithms, Frontend, Design | University of California, Irvine           |
-| Josh Wong      | he/him   | Director of Data Centre Operations                       | Sysadmin, Systems Programmer, Algorithms         | Santa Monica College, Don Bosco Technical Institute, Rosemead |
 | Kin Tsang      | he/him   | Director of Systems Architecture, Boardmember           | Algorithms                                        |                                            |
 | Andrew Shen    | he/him   | Director of Machine Learning, Boardmember                | Frontend/Flutter                                  | University of California, Irvine           |
 | Samuel Sharp   | he/him   | Frontend and Native Lead                      | Frontend/Flutter, Design, UX/UI                   | San Diego High School                      |
