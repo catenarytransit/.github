@@ -18,19 +18,18 @@ The supporting foundation of Catenary Maps is Catenary Transit Initiatives, Inc.
 
 | Name                                                                   | Description                                                                                                              | Technologies                  |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| [catenary-frontend](https://github.com/CatenaryMaps/catenary-frontend) | Default, original frontend for Catenary with realtime vehicle locations, labelled routes and stops.                      | Svelte, Tailwind              |
-| [catenary-backend](https://github.com/CatenaryMaps/catenary-backend)   | Rust backend that powers Catenary with import, APIs for trip calculations, and routing algorithms.                       | Rust                          |
-| [catenary-landing](https://github.com/CatenaryMaps/catenary-landing)   | Landing page for Catenary, providing a concise overview of the project in a concise, responsive format.                  | Next.js, Tailwind, TypeScript |
-| [catenary-flutter](https://github.com/CatenaryMaps/catenary-flutter)   | Experimental rewrite of Catenary's frontend in Flutter, with support for native mobile and Web platforms.                | Rust, Flutter                 |
-| [kactus-gtfs-rt](https://github.com/CatenaryMaps/kactus-gtfs-rt)       | Redis-based cache microservice fetching GTFS-rt from thousands of agencies every second and syncing with our algorithms. | Rust                          |
-| [zotgtfs](https://github.com/CatenaryMaps/zotgtfs)                     | ZotGTFS, making GTFS-rt and static data from Transloc                                                                    | Rust                          |
-| [amtrak-gtfs-rt](https://github.com/catenarymaps/amtrak-gtfs-rt)       | Amtrak Track-a-train to GTFS-rt conversion                                                                               | Rust                          |
-| [skokieswift](https://github.com/CatenaryMaps/skokieswift)             | Experimental reverse engineering of the CTA Train Tracker API, adapting it to GTFS-rt for use in Catenary.               | WIP                           |
-| [announcements](https://github.com/CatenaryMaps/announcements)         | Publishing automated announcements for the world's transit systems.                                                      | N/A                           |
+| [catenary-frontend](https://github.com/CatenaryTransit/catenary-frontend) | Default, original frontend for Catenary with realtime vehicle locations, labelled routes and stops.                      | Svelte, Tailwind              |
+| [catenary-backend](https://github.com/CatenaryTransit/catenary-backend)   | Rust backend that powers Catenary with import, APIs for trip calculations, and routing algorithms.                       | Rust                          |
+| [catenary-landing](https://github.com/CatenaryTransit/catenary-landing)   | Landing page for Catenary, providing a concise overview of the project in a concise, responsive format.                  | Next.js, Tailwind, TypeScript |
+| [catenary-flutter](https://github.com/CatenaryTransit/catenary-flutter)   | Experimental rewrite of Catenary's frontend in Flutter, with support for native mobile and Web platforms.                | Rust, Flutter                 |
+| [kactus-gtfs-rt](https://github.com/CatenaryTransit/kactus-gtfs-rt)       | Redis-based cache microservice fetching GTFS-rt from thousands of agencies every second and syncing with our algorithms. | Rust                          |
+| [zotgtfs](https://github.com/CatenaryTransit/zotgtfs)                     | ZotGTFS, making GTFS-rt and static data from Transloc                                                                    | Rust                          |
+| [amtrak-gtfs-rt](https://github.com/CatenaryTransit/amtrak-gtfs-rt)       | Amtrak Track-a-train to GTFS-rt conversion                                                                               | Rust                          |
+| [chicago-gtfs-rt](https://github.com/CatenaryTransit/chicago-gtfs-rt)             | Experimental reverse engineering of the CTA Train Tracker API, adapting it to GTFS-rt for use in Catenary.               | WIP                           |
+| [announcements](https://github.com/CatenaryTransit/announcements)         | Publishing automated announcements for the world's transit systems.                                                      | N/A                           |
 
 ## Developer Guide / Getting Started
 
-Join our Discord! A notes are available [here](https://github.com/CatenaryMaps/cantenarymaps) and in our [roadmap](https://github.com/orgs/CatenaryMaps/projects/1/).
 
 ## Maintainers
 
