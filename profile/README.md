@@ -1,51 +1,49 @@
 <div align="center">
 
-![Banner](https://files.catbox.moe/ta0y7z.png)
+![Banner](https://files.catbox.moe/nefned.png)
 
-[![Discord]](https://discord.gg/WHqTZPdfy5) [![License]](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text)
+Catenary helps connect people and communities with powerful transit data and algorithms.
 
-Catenary Maps is an **ad-free**, **open-source tool** for seamless public transport navigation. Using real-time data and innovative algorithms, we streamline your transit experience. Navigate public transport smarter and smoother with us!
+[![Discord]](https://discord.gg/WHqTZPdfy5)
+[![Twitter]](https://twitter.com/CatenaryMaps)
+<br /><br />
+[![License]](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text) [![LaunchMaps]](https://maps.catenarymaps.org) [![LaunchResearch]](https://twitter.com/CatenaryCompsci)
+
+[Discord]: https://img.shields.io/badge/Join%20Our%20Community!-088EAF?style=for-the-badge&logo=discord&logoColor=%23ffffff
+[Twitter]: https://img.shields.io/badge/Follow%20Us!-088EAF?style=for-the-badge&logo=x&logoColor=%23ffffff
+
+[License]: https://img.shields.io/static/v1?label=License&message=AGPL-3&color=088EAF&style=for-the-badge
+[LaunchMaps]: https://img.shields.io/static/v1?label=Launch&message=Catenary%20Maps&color=088EAF&style=for-the-badge
+[LaunchResearch]: https://img.shields.io/static/v1?label=Launch&message=Catenary%20Research&color=088EAF&style=for-the-badge
 
 </div>
 
-## About
+We're a team of students creating advanced routing, estimated time of arrival (ETA), and data processing algorithms. In addition to our research, we maintain and improve Catenary Maps, which aims to provide accurate real-time data in a user-friendly, accessible, and beautiful format. Catenary Maps will always remain free, ad-free, and open source, and anyone is welcome to join and contribute!
 
-We're a fully student team focused on creating advanced routing, estimated time of arrival (ETA), and data processing algorithms. Our goal is to provide accurate real-time data in a user-friendly, accessible format.
+*The Catenary Maps project - along with Catenary's research and computer science initiatives - are supported by Catenary Transit Initiatives, Inc, a registered nonprofit public benefit corporation in California.*
 
-The supporting foundation of Catenary Maps is Catenary Transit Initiatives, Inc., a registered nonprofit public benefit corporation in California.
-
-## Repositories
+## Projects
 
 | Name                                                                   | Description                                                                                                              | Technologies                  |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| [catenary-frontend](https://github.com/CatenaryTransit/catenary-frontend) | Default, original frontend for Catenary with realtime vehicle locations, labelled routes and stops.                      | Svelte, Tailwind              |
-| [catenary-backend](https://github.com/CatenaryTransit/catenary-backend)   | Rust backend that powers Catenary with import, APIs for trip calculations, and routing algorithms.                       | Rust                          |
-| [catenary-landing](https://github.com/CatenaryTransit/catenary-landing)   | Landing page for Catenary, providing a concise overview of the project in a concise, responsive format.                  | Next.js, Tailwind, TypeScript |
-| [catenary-flutter](https://github.com/CatenaryTransit/catenary-flutter)   | Experimental rewrite of Catenary's frontend in Flutter, with support for native mobile and Web platforms.                | Rust, Flutter                 |
-| [kactus-gtfs-rt](https://github.com/CatenaryTransit/kactus-gtfs-rt)       | Redis-based cache microservice fetching GTFS-rt from thousands of agencies every second and syncing with our algorithms. | Rust                          |
-| [zotgtfs](https://github.com/CatenaryTransit/zotgtfs)                     | ZotGTFS, making GTFS-rt and static data from Transloc                                                                    | Rust                          |
-| [amtrak-gtfs-rt](https://github.com/CatenaryTransit/amtrak-gtfs-rt)       | Amtrak Track-a-train to GTFS-rt conversion                                                                               | Rust                          |
-| [chicago-gtfs-rt](https://github.com/CatenaryTransit/chicago-gtfs-rt)             | Experimental reverse engineering of the CTA Train Tracker API, adapting it to GTFS-rt for use in Catenary.               | WIP                           |
-| [announcements](https://github.com/CatenaryTransit/announcements)         | Publishing automated announcements for the world's transit systems.                                                      | N/A                           |
-
-## Developer Guide / Getting Started
-
+| [catenary-frontend](https://github.com/CatenaryTransit/catenary-frontend) | Default Web frontend for Catenary with realtime vehicle locations, labelled routes and stops. Lead maintainer: Samuel Sharp                      | Svelte, Tailwind              |
+| [catenary-backend](https://github.com/CatenaryTransit/catenary-backend)   | Rust backend that powers Catenary with import, APIs for trip calculations, and routing algorithms. Lead maintainer: Kyler Chin | Rust                          |
+| [catenary-landing](https://github.com/CatenaryTransit/catenary-landing)   | Landing page for Catenary, providing a concise overview of the project in a responsive Web format. Lead maintainer: Jason T. | Next.js, Tailwind, TypeScript |
+| [kactus-gtfs-rt](https://github.com/CatenaryTransit/kactus-gtfs-rt)       | Redis-based cache microservice fetching GTFS-rt from thousands of agencies every second and syncing with our algorithms. Lead maintainer: Kyler Chin | Rust                          |
+| [zotgtfs](https://github.com/CatenaryTransit/zotgtfs)                     | Converts Transloc-based shuttle and transit bus services to the open GTFS-rt format. Lead maintainer: Kyler Chin  | Rust                          |
+| [amtrak-gtfs-rt](https://github.com/CatenaryTransit/amtrak-gtfs-rt)       | Converts Amtrak's proprietary Track-a-Train API data to the open GTFS-rt format. Lead maintainer: Kyler Chin | Rust                          |
+| [announcements](https://github.com/CatenaryTransit/announcements) | Raw files for the world's transit announcements. Lead maintainer: Samuel Sharp | N/A |
 
 ## Maintainers
 
-| Name           | Pronouns | Title                                                   | Roles                                             | Education                                  |
-|----------------|----------|----------------------------------------------------------|---------------------------------------------------|--------------------------------------------|
-| Kyler Chin     | he/him   | Founder, Executive Director, Boardmember                          | Systems Programmer, Algorithms, Frontend, Design | University of California, Irvine           |
-| Kin Tsang      | he/him   | Director of Systems Architecture, Boardmember           | Algorithms                                        |                                            |
-| Andrew Shen    | he/him   | Director of Machine Learning, Boardmember                | Frontend/Flutter                                  | University of California, Irvine           |
-| Samuel Sharp   | he/him   | Frontend and Native Lead                      | Frontend/Flutter, Design, UX/UI                   | San Diego High School                      |
-| Andrew Bustos  | he/him   |                                                          | Frontend/Flutter, User Design                     | California State University, East Bay      |
-| Jason T. | he/him | Frontend Web Lead | Frontend/Web, UX/UI, Accessibility Design | University of California, San Diego |
-| Brandon Z. | he/they | User Interface & Experience Design Lead | Frontend/Web, UX/UI, Design | University of Southern California |
-
-## What's next for us?
-
-We aim to develop a deliverable product over the upcoming weeks, incorporating features such as geocoding, departure and arrival algorithms, transfer and route information, along with routing algorithms tailored for bicycles, pedestrians, and wheelchair users. Additionally, we plan to launch a mobile application utilizing Flutter.
-
-[Discord]: https://img.shields.io/badge/join%20our%20discord!-088EAF?style=for-the-badge&logo=discord&labelColor=%23555555&logoColor=%23ffffff
-[License]: https://img.shields.io/static/v1?label=License&message=AGPL-3&color=088EAF&style=for-the-badge
+| Name | Pronouns | Title  | Roles | Education |
+|---|---|---|---|---|
+| Kyler Chin | he/him | Founder, Executive Director, Boardmember | Systems Programmer, Distributed Computing, Algorithms, Frontend, Design | University of California, Irvine |
+| Kin Tsang | he/him | Director of Systems Architecture, Boardmember           | Systems Architecture, Algorithms                                        | California State University, Los Angeles |
+| Andrew Shen | he/him | Director of Machine Learning, Boardmember                | Frontend, Algorithms, Machine Learning                                  | University of California, Irvine           |
+| Samuel Sharp | he/him | Frontend Lead, Community Manager                      | Frontend, Design, UX/UI                   | San Diego High School                      |
+| Jason T. | he/him | Web Landing Lead | Frontend, UX/UI, Accessibility Design | University of California, San Diego |
+| Brandon Z. | he/they | UI/UX Lead | Frontend, UX/UI, Design | University of Southern California |
+| Chelsea Wen | she/her | | Algorithms, Embedded | University of California, Irvine |
+| Jaiveer Gahunia | he/him | | Algorithms, Embedded | University of California, Irvine |
+| Andrew Bustos  | he/him | | Frontend, User Design                     | California State University, East Bay      |
