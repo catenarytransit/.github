@@ -5,7 +5,7 @@
 
 Catenary helps connect people and communities with powerful transit data and algorithms.
 
-[![Discord]](https://discord.gg/WHqTZPdfy5)
+[![Discord]](https://discord.gg/wABydjq78G)
 [![Twitter]](https://twitter.com/CatenaryMaps)
 <br /><br />
 [![License]](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text) [![LaunchMaps]](https://maps.catenarymaps.org) [![LaunchResearch]](https://twitter.com/CatenaryCompsci)
