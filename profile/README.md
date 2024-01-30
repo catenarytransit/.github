@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/40oek2.png" />
+<img src="https://files.catbox.moe/t4pekb.png" height="160" />
 <br /><br />
 
 Catenary helps connect people and communities with powerful transit data and algorithms.
