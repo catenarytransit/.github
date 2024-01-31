@@ -51,6 +51,6 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 
 ### Security
 
-*** Beware of any impersonation attempts of our GitHub account! This is our only page, as shown via the verification tag linking to https://catenarymaps.org/ or vise versa, from our site to this GitHub account.***
+**Beware of any impersonation attempts of our GitHub account! This is our only page, as shown via the verification tag linking to https://catenarymaps.org/ or vise versa, from our site to this GitHub account.**
 
 Security vulnerabilities can be disclosed to `contact@catenarymaps.org`
