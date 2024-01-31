@@ -48,3 +48,9 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 | Chelsea Wen | she/her | | Algorithms, Embedded | University of California, Irvine |
 | Jaiveer Gahunia | he/him | | Algorithms, Embedded | University of California, Irvine |
 | Andrew Bustos  | he/him | | Frontend, User Design                     | California State University, East Bay      |
+
+### Security
+
+*** Beware of any impersonation attempts of our GitHub account! This is our only page, as shown via the verification tag linking to https://catenarymaps.org/ or vise versa, from our site to this GitHub account.***
+
+Security vulnerabilities can be disclosed to `contact@catenarymaps.org`
