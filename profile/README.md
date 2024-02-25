@@ -15,7 +15,7 @@ Catenary helps connect people and communities with powerful transit data and alg
 
 [License]: https://img.shields.io/static/v1?label=License&message=AGPL-3&color=088EAF&style=for-the-badge
 [LaunchMaps]: https://img.shields.io/static/v1?label=Launch&message=Catenary%20Maps&color=088EAF&style=for-the-badge
-[LaunchResearch]: https://img.shields.io/static/v1?label=Launch&message=Catenary%20Research&color=088EAF&style=for-the-badge
+[TwitterResearch]: https://img.shields.io/static/v1?label=Twitter&message=Catenary%20Research&color=088EAF&style=for-the-badge
 
 </div>
 
