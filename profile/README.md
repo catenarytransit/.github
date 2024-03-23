@@ -19,7 +19,7 @@ Catenary helps connect people and communities with powerful transit data and alg
 
 We're a team of students creating advanced routing, estimated time of arrival (ETA), and data processing algorithms. In addition to our research, we maintain and improve Catenary Maps, which aims to provide accurate real-time data in a user-friendly, accessible, and beautiful format. Catenary Maps will always remain free, ad-free, and open source, and anyone is welcome to join and contribute!
 
-*The Catenary Maps project - along with Catenary's research and computer science initiatives - are supported by Catenary Transit Initiatives, Inc, a registered nonprofit public benefit corporation in California with 501(c)(3) 509(a)(2) public charity tax exemption status.*
+*The Catenary Maps project - along with Catenary's research and computer science initiatives - are supported by Catenary Transit Initiatives, Inc, a registered nonprofit public benefit corporation in California with 501(c)(3) 509(a)(2) public charity tax exemption status in the United States.*
 
 ## Projects
 
