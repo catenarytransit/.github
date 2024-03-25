@@ -48,5 +48,7 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 
 **Beware of any impersonation attempts of our GitHub account! This is our only page, as shown via the verification tag linking to https://catenarymaps.org/ or vice versa, from our site to this GitHub account.**
 
+Packages on crates.io must be published by https://crates.io/users/kylerchin to be valid. No other users's packages are associated with Catenary Transit Initiatives. In the event of name-squatting by a malicious user or if our package isn't on crates.io, please refer to the package in your `Cargo.toml` directly to our GitHub page.
+
 Security vulnerabilities can be disclosed to `contact@catenarymaps.org`
 </div>
