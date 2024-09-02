@@ -35,8 +35,8 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 | Name | Pronouns | Title  | Roles | Education |
 |---|---|---|---|---|
 | Kyler Chin | he/him | Founder, Executive Director, Boardmember | Systems Programmer, Distributed Computing, Algorithms, Frontend, Design | University of California, Irvine |
-| Kin Tsang | he/him | Director of Systems Architecture, Boardmember | Systems Architecture, Algorithms | California State University, Los Angeles |
 | Chelsea Wen | she/her | Boardmember |  Algorithms, Embedded | University of California, Irvine |
+| Kin Tsang | he/him | Director of Systems Architecture | Systems Architecture, Algorithms | California State University, Los Angeles |
 | Samuel Sharp | he/him | Frontend Lead | Frontend, Design, UX/UI | San Diego High School |
 | Andrew Shen | he/him | Director of Machine Learning | Frontend, Algorithms, Machine Learning | University of California, Irvine |
 | Jason T. | he/him | | Frontend, UX/UI, Accessibility Design | University of California, San Diego |
