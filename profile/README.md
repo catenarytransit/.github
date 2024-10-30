@@ -11,7 +11,7 @@ Catenary helps connect people and communities with powerful transit data and alg
 [![License]](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text) [![LaunchMaps]](https://maps.catenarymaps.org) 
 
 [Discord]: https://img.shields.io/badge/Join%20Our%20Community!-088EAF?style=for-the-badge&logo=discord&logoColor=%23ffffff
-[Threads]:(https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)]
+[Threads]:https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white
 
 [License]: https://img.shields.io/static/v1?label=License&message=AGPL-3&color=088EAF&style=for-the-badge
 [LaunchMaps]: https://img.shields.io/static/v1?label=Launch&message=Catenary%20Maps&color=088EAF&style=for-the-badge
