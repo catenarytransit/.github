@@ -8,6 +8,7 @@ Catenary helps connect people and communities with powerful transit data and alg
 [![Discord]](https://discord.gg/wABydjq78G)
 [![Threads]](https://threads.net/@CatenaryMaps#gh-dark-mode-only)
 [![ThreadsLight]](https://threads.net/@CatenaryMaps#gh-light-mode-only)
+[![Instagram]](https://instagram.com/catenarymaps)
 <br /><br />
 [![License]](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text) [![LaunchMaps]](https://maps.catenarymaps.org) 
 
@@ -18,6 +19,7 @@ Catenary helps connect people and communities with powerful transit data and alg
 [License]: https://img.shields.io/static/v1?label=License&message=AGPL-3&color=088EAF&style=for-the-badge
 [LaunchMaps]: https://img.shields.io/static/v1?label=Launch&message=Catenary%20Maps&color=088EAF&style=for-the-badge
 [LaunchResearch]: https://img.shields.io/static/v1?label=Twitter&message=Catenary%20Research&color=088EAF&style=for-the-badge
+[Instagram]: https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
 
 We're a team of students creating advanced routing, estimated time of arrival (ETA), and data processing algorithms. In addition to our research, we maintain and improve Catenary Maps, which aims to provide accurate real-time data in a user-friendly, accessible, and beautiful format. Catenary Maps will always remain free, ad-free, and open source, and anyone is welcome to join and contribute!
 
