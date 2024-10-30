@@ -9,12 +9,14 @@ Catenary helps connect people and communities with powerful transit data and alg
 [![Threads]](https://threads.net/@CatenaryMaps#gh-dark-mode-only)
 [![ThreadsLight]](https://threads.net/@CatenaryMaps#gh-light-mode-only)
 [![Instagram]](https://instagram.com/catenarymaps)
+[![Bluesky]](https://bsky.app/profile/catenarymaps.org)
 <br /><br />
 [![License]](https://www.gnu.org/licenses/agpl-3.0.en.html#license-text) [![LaunchMaps]](https://maps.catenarymaps.org) 
 
 [Discord]: https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white
 [Threads]:https://img.shields.io/badge/Threads-ffffff?logo=Threads&logoColor=black
 [ThreadsLight]:https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white
+[Bluesky]: https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff
 
 [License]: https://img.shields.io/static/v1?label=License&message=AGPL-3&color=088EAF&style=for-the-badge
 [LaunchMaps]: https://img.shields.io/static/v1?label=Launch&message=Catenary%20Maps&color=088EAF&style=for-the-badge
