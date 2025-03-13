@@ -31,7 +31,7 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 
 | Name | Description | Technologies |
 | --- | --- | --- |
-| [catenary-frontend](https://github.com/CatenaryTransit/catenary-frontend) | Web frontend for Catenary with line, stop, and realtime vehicle locations, all on a global scale. Lead maintainer: Samuel Sharp | Svelte, Tailwind |
+| [catenary-frontend](https://github.com/CatenaryTransit/catenary-frontend) | Web frontend for Catenary with line, stop, and realtime vehicle locations, all on a global scale. Lead maintainer: Kyler Chin | Svelte, Tailwind |
 | [catenary-backend](https://github.com/CatenaryTransit/catenary-backend) | Rust backend that powers Catenary with import, APIs for trip calculations, and routing algorithms. Lead maintainer: Kyler Chin | Rust |
 
 [More projects →](https://github.com/orgs/catenarytransit/repositories)
