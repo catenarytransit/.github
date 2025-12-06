@@ -56,8 +56,11 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 Packages on crates.io must be published by https://crates.io/users/kylerchin to be valid. No other users's packages are associated with Catenary Transit Initiatives. In the event of name-squatting by a malicious user or if our package isn't on crates.io, please refer to the package in your `Cargo.toml` directly to our GitHub page.
 
 Security vulnerabilities can be disclosed to `contact@catenarymaps.org`
-</div>
+
 
 ### Corporate support
+<img width="500"  alt="dd_logo_h_white" src="https://github.com/user-attachments/assets/34669ecf-2d4e-46a3-b5bf-0fb5a95665fa" />
 
 Thank you to [Datadog](https://datadog.com/) for providing us their monitoring platform for free.
+
+</div>
