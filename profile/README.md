@@ -57,3 +57,7 @@ Packages on crates.io must be published by https://crates.io/users/kylerchin to 
 
 Security vulnerabilities can be disclosed to `contact@catenarymaps.org`
 </div>
+
+### Corporate support
+
+Thank you to [Datadog](https://datadog.com/) for providing us their monitoring platform for free.
