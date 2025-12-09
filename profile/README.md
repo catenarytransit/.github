@@ -46,8 +46,6 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 | Samuel Sharp | he/him | Frontend Lead | Frontend, Design, UX/UI | University of California, San Diego |
 | Jason T. | he/him | | Frontend, UX/UI, Accessibility Design | University of California, San Diego |
 | Brandon Z. | he/they | | Frontend, UX/UI, Design | University of Southern California |
-| Jaiveer Gahunia | he/him | | Algorithms, Embedded | University of California, Irvine |
-| Andrew Bustos  | he/him | | Frontend, User Design | California State University, East Bay |
 
 ### Security
 
