@@ -59,7 +59,8 @@ Security vulnerabilities can be disclosed to `contact@catenarymaps.org`
 
 
 ### Corporate support
-<img width="500"  alt="dd_logo_h_white" src="https://github.com/user-attachments/assets/34669ecf-2d4e-46a3-b5bf-0fb5a95665fa" />
+<img width="400"  alt="dd_logo_h_white" src="https://github.com/user-attachments/assets/34669ecf-2d4e-46a3-b5bf-0fb5a95665fa#gh-dark-mode-only" />
+<img width="400"  alt="dd_logo_h_white" src="https://github.com/user-attachments/assets/2e0bf5b8-f243-4240-bc20-6c239364fea1#gh-light-mode-only" />
 
 Thank you to [Datadog](https://datadog.com/) for providing us their monitoring platform for free.
 
