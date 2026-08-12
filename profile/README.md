@@ -34,6 +34,7 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 | [catenary-web](https://github.com/CatenaryTransit/catenary-frontend) | Web frontend for Catenary with line, stop, and realtime vehicle locations, all on a global scale. Lead maintainer: Kyler Chin | Svelte, Tailwind |
 | [catenary-backend](https://github.com/CatenaryTransit/catenary-backend) | Rust backend that powers Catenary with import, APIs for trip calculations, and routing algorithms. Lead maintainer: Kyler Chin | Rust |
 | [catenary-compose](https://github.com/CatenaryTransit/catenary-compose/) | Android app with similar functionality as the JS version with high performance map rendering and multithread data processing | Kotlin, Jetpack Compose |
+| [catenary-ios](https://github.com/CatenaryTransit/catenary-ios/) | Swift UI version for iOS devices supporting iOS 16 and after | Swift |
 
 [More projects →](https://github.com/orgs/catenarytransit/repositories)
 
@@ -46,6 +47,7 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 | Samuel Sharp | he/him | Frontend Lead | Frontend, Design, UX/UI | University of California, San Diego |
 | Jason T. | he/him | | Frontend, UX/UI, Accessibility Design | University of California, San Diego |
 | Ethan C. | he/him | | Agency Integration, Backend programming | |
+| SnaggleGrolop | he/him | | iOS developer | |
 | Brandon Z. | he/they | | Frontend, UX/UI, Design | University of Southern California |
 
 ### Security
