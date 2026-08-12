@@ -48,6 +48,7 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 | Jason T. | he/him | | Frontend, UX/UI, Accessibility Design | University of California, San Diego |
 | Ethan C. | he/him | | Agency Integration, Backend programming | University of Illinois Urbana-Champaign |
 | SnaggleGrolop | he/him | | iOS developer | |
+| Charlie | he/him | | iOS developer | SPŠE Hálova, Bratislava, Slovakia |
 | Brandon Z. | he/they | | Frontend, UX/UI, Design | University of Southern California |
 
 ### Security
