@@ -44,11 +44,11 @@ We're a team of students creating advanced routing, estimated time of arrival (E
 |---|---|---|---|---|
 | Kyler Chin | he/him | Founder, Executive Director, Boardmember | Systems Programmer, Distributed Computing, Algorithms, Frontend, Design | University of California, Irvine |
 | Chelsea Wen | she/her | Boardmember |  Algorithms, Embedded | University of California, Irvine |
-| Samuel Sharp | he/him | Frontend Lead | Frontend, Design, UX/UI | University of California, San Diego |
-| Jason T. | he/him | | Frontend, UX/UI, Accessibility Design | University of California, San Diego |
 | Ethan C. | he/him | | Agency Integration, Backend programming | University of Illinois Urbana-Champaign |
 | SnaggleGrolop | he/him | | iOS developer | |
 | Charlie | he/him | | iOS developer | SPŠE Hálova, Bratislava, Slovakia |
+| Samuel Sharp | he/him | Frontend Lead | Frontend, Design, UX/UI | University of California, San Diego |
+| Jason T. | he/him | | Frontend, UX/UI, Accessibility Design | University of California, San Diego |
 | Brandon Z. | he/they | | Frontend, UX/UI, Design | University of Southern California |
 
 ### Security
